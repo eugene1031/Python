@@ -1,3 +1,4 @@
+#簡易計算機
 a = float(input("Please enter the first number: "))
 operator = input("Please enter the operator: ")
 b = float(input("Please enter the second number: "))

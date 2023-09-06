@@ -1,3 +1,4 @@
+#年齡判斷if else
 age = int(input("Enter your age:"))
 if age > 100 :
     print("You are too old!")
